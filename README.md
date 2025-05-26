@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Ahmed Nabil] 👋
 
 ## 🚀 Fullstack Engineer | Building Scalable Web Solutions
 
@@ -75,9 +75,11 @@ Developing and consuming RESTful APIs with proper authentication and error handl
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ELZAYADA&show_icons=true&theme=radical&hide_border=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ELZAYADA&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/ELZAYADA)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ELZAYADA&layout=compact&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ELZAYADA&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/ELZAYADA)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ELZAYADA&theme=radical&hide_border=true)](https://github.com/ELZAYADA)
 
 </div>
 
@@ -108,6 +110,7 @@ Advanced web application showcasing full-stack development capabilities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
 
 ---
 
