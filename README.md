@@ -43,11 +43,31 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with expertis
 
 ## 💼 What I Do
 
-- **🎨 Frontend Development**: Creating responsive, user-friendly interfaces with modern HTML5, CSS3, and JavaScript
-- **⚙️ Backend Development**: Building robust APIs and server-side applications using .NET Core/Framework
-- **🗄️ Database Design**: Architecting efficient database solutions with SQL Server and Oracle
-- **🔗 API Integration**: Developing and consuming RESTful APIs with proper authentication and error handling
-- **📱 Full-Stack Solutions**: End-to-end application development from concept to deployment
+<table>
+<tr>
+<td width="50%">
+
+**🎨 Frontend Development**  
+Creating responsive, user-friendly interfaces with modern HTML5, CSS3, and JavaScript
+
+**🗄️ Database Design**  
+Architecting efficient database solutions with SQL Server and Oracle
+
+**📱 Full-Stack Solutions**  
+End-to-end application development from concept to deployment
+
+</td>
+<td width="50%">
+
+**⚙️ Backend Development**  
+Building robust APIs and server-side applications using .NET Core/Framework
+
+**🔗 API Integration**  
+Developing and consuming RESTful APIs with proper authentication and error handling
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -55,9 +75,9 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with expertis
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ELZAYADA&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ELZAYADA&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -65,32 +85,38 @@ Welcome to my GitHub profile! I'm a passionate fullstack developer with expertis
 
 ## 🌟 Featured Projects
 
-### 🔗 [Nilura - E-Commerce Platform](https://github.com/ELZAYDA/E-Commerce)
-**Tech Stack:** A comprehensive fashion and apparel e-commerce platform built with ASP.NET MVC featuring a multi-layered architecture, robust user management, and secure payment processing.
+### 🔗 [ELZAYDA/E-Commerce](https://github.com/ELZAYADA/E-Commerce)
+**Tech Stack:** C#, ASP.NET Core, Entity Framework, SQL Server, Bootstrap  
+A comprehensive e-commerce platform featuring modern design and robust functionality.
 
-### 🔗 [Netolewx - Movie Watching Platform](https://github.com/ELZAYDA/Netolex)
-**Tech Stack:** A comprehensive web application for browsing, watching, and maintaining watchlists of movies built with ASP.NET MVC.
+### 🔗 [ELZAYDA/Netolex](https://github.com/ELZAYADA/Netolex)
+**Tech Stack:** JavaScript, TypeScript, .NET Web API, Angular  
+Advanced web application showcasing full-stack development capabilities.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 Currently working on: **[Current Project/Learning Goal]**
-- 🌱 Learning: **[New Technology/Skill]**
+- 🔭 Currently working on: **A comprehensive book discovery platform using .NET APIs and Angular - allowing users to browse, read, and listen to books**
+- 🌱 Learning: **Advanced Angular features and .NET performance optimization**
 - 👯 Looking to collaborate on: **Open source .NET projects**
 - 💬 Ask me about: **C#, .NET, JavaScript, Database Design**
 
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ahmed-nabil-452762293 )
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( ahmedelzayda19@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 ---
 
 ## ⚡ Fun Fact
-*Here's a funny story from my coding journey! 😄
-During my first year in college, I had a computer-based quiz on problem-solving. I had practiced extensively on Codeforces and solved those problems multiple times - I was confident! But when the quiz started, I completely froze up and couldn't solve anything (maybe someone jinxed me! 😅).
-That embarrassing moment actually became my motivation! Instead of giving up, it pushed me to dive deeper into problem-solving. I ended up solving over 200 problems on various platforms. Sometimes our worst moments become our biggest motivators! 🚀*
+Here's a funny story from my coding journey! 😄 
+
+During my first year in college, I had a computer-based quiz on problem-solving. I had practiced extensively on Codeforces and solved those problems multiple times - I was confident! But when the quiz started, I completely froze up and couldn't solve anything (maybe someone jinxed me! 😅). 
+
+That embarrassing moment actually became my motivation! Instead of giving up, it pushed me to dive deeper into problem-solving. I ended up solving over 200 problems on various platforms. Sometimes our worst moments become our biggest motivators! 🚀
 
 ---
 
@@ -98,6 +124,6 @@ That embarrassing moment actually became my motivation! Instead of giving up, it
   
 **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ELZAYADA&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
